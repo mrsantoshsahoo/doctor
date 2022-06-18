@@ -87,6 +87,7 @@ class HomePage extends StatelessWidget {
             size: 35,
           ),
         ),
+
         Divider(thickness: 1,)
       ],
     );
