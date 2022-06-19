@@ -1,0 +1,6 @@
+
+
+
+class MyConnectivity {
+  MyConnectivity._();
+}
